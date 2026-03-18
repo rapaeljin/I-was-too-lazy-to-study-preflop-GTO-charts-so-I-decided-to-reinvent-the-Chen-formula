@@ -1,4 +1,4 @@
-# Reinventing Chen Formula for MTT GTO Preflop
+# I was too lazy to study preflop GTO charts so I decided to reinvent the Chen formula
 
 ## Introduction
 
