@@ -1,0 +1,9 @@
+the numbering of each images under each folders are as follows.
+1 ~ 7: UTG ~ SB RFI
+8 ~ 14: UTG1 ~ BB vs UTG RFI
+15 ~ 20: LJ ~ BB vs UTG1 RFI
+21 ~ 25: HJ ~ BB vs LJ RFI
+26 ~ 29: CO ~ BB vs HJ RFI
+30 ~ 32: BTN ~ BB vs CO RFI
+33 ~ 34: SB ~ BB vs BTN RFI
+35: BB vs SB RFI
